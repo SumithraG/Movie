@@ -1,2 +1,0 @@
-# Movie
-Simple Movie Website
